@@ -1,6 +1,9 @@
-# seacragme.github.io
-seacragme
+# seacrag 的学习和思想记录 #
 
-#Learn MARKDOWN#
+## 需要学习的目标 ##
 
-基本语法:
+-建立github.io的基本界面
+-基本的MARKDOWN语法
+-PYTHON的学习
+
+等等
