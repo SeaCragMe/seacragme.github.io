@@ -1,5 +1,4 @@
-## 超市收银系统 ##
 
-1.  [简书 超市收银系统](https://www.jianshu.com/p/6c5cb31005b6)
-2.  [Building a Cash Register](https://b0nez.github.io/Codecademy/9%20-%20Building%20a%20Cash%20Register.html)
-3.  [github SampleCashRegister](https://github.com/igor-toporet/SampleCashRegister)
+## Python ##
+
+1.	[廖雪峰的Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
