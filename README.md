@@ -3,7 +3,7 @@
 
 
 #### [【UML 序列图_类图_学习汇总】](/docs/UML.md) ####
-#### [【超市收银系统】](/docs/case.md) ####
+#### [【超市收银系统】](/docs/cash.md) ####
 
 ### 当前需要学习的目标 ###
 
@@ -11,7 +11,7 @@
 2. [基本的MARKDOWN语法](/docs/Markdowndoc.md)
 3. [VIM基本操作](/docs/VIMdoc.md)
 4. [openbsd的安装与配置](/docs/openbsddoc.md)
-5. [PYTHON基础](pythondoc.md)
+5. [PYTHON基础](/docs/pythondoc.md)
 
 ### 最近搜集的资料和兴趣 ###
 
