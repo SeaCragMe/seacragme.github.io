@@ -11,9 +11,4 @@
 8.  [UML——在Visual Studio 2013/2015中设计UML类图](http://www.cnblogs.com/SceneryHao/p/5355915.html)
 9.  [用例图Use Case](http://www.cnblogs.com/wolf-sun/p/3411175.html)
 
-## 超市收银系统 ##
-
-1.  [简书 超市收银系统](https://www.jianshu.com/p/6c5cb31005b6)
-2.  [Building a Cash Register](https://b0nez.github.io/Codecademy/9%20-%20Building%20a%20Cash%20Register.html)
-3.  [github SampleCashRegister](https://github.com/igor-toporet/SampleCashRegister)
 
