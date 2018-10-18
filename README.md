@@ -2,13 +2,13 @@
 ## 这里是 seacrag 的学习小站 ##
 
 
-### 当前需要学习的目标 ###
+### 工欲善其事 必先利其器 ###
 
-- [在github.io上建立免费博客的方法](/docs/githubdoc.md)
-- [用轻量标记格式Markdown写博客](/docs/Markdowndoc.md)
-- [编程利器 VIM](/docs/VIMdoc.md)
-- [最安全的操作系统 OpenBSD](/docs/openbsddoc.md)
-- [最热的编程语言Python](/docs/pythondoc.md)
+1. 在[github.io](/docs/githubdoc.md)上建立免费博客的方法
+2. 用轻量标记格式[Markdown](/docs/Markdowndoc.md)写博客
+3. 编程利器 [VIM](/docs/VIMdoc.md)
+4. 最安全的操作系统 [OpenBSD](/docs/openbsddoc.md)
+5. 最热的编程语言 [Python](/docs/pythondoc.md)
 
 ### 最近搜集的资料和兴趣 ###
 
