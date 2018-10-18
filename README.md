@@ -12,7 +12,7 @@
 
 ### 最近搜集的资料和兴趣 ###
 
-* [Visual Studio 官方教程](https://docs.microsoft.com/zh-cn/visualstudio/?view=vs-2017#pivot=get-started&panel=get-started1)
+* [Visual Studio 中文官方教程](https://docs.microsoft.com/zh-cn/visualstudio/?view=vs-2017#pivot=get-started&panel=get-started1)
 * [人工智能](/docs/RGZN.md)
 * [股票数据接口](https://www.juhe.cn/docs/api/id/21)
 * [股票数据API](https://blog.csdn.net/Llingmiao/article/details/79941066)
