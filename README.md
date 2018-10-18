@@ -1,14 +1,13 @@
 # 欢迎光临 #
 ## 这里是 seacrag 的学习小站 ##
 
-#### [UML 序列图_类图_学习汇总](/docs/UML.md)	[超市收银系统](/docs/case.md) ####
+#### [【UML 序列图_类图_学习汇总】](/docs/UML.md)		[【超市收银系统】](/docs/case.md) ####
 
 ### 当前需要学习的目标 ###
 
 1. [建立github.io的基本界面](seacragme.github.io/docs/index.html)
 2. 基本的MARKDOWN语法
 
-	201810101500
 	1. [Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)
 	2. [GitHub Pages](https://www.jianshu.com/p/48fd3d4a95e1)
 	3. [GitHub Pages Guides官方文档翻译](https://www.jianshu.com/p/573b7f8461d0)
