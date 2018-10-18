@@ -2,16 +2,13 @@
 ## 这里是 seacrag 的学习小站 ##
 
 
-####	[【UML 序列图_类图_学习汇总】](/docs/UML.md) ####
-####	[【超市收银系统】](/docs/cash.md) ####
-
 ### 当前需要学习的目标 ###
 
-1. [在github.io上建立免费的博客](/docs/githubdoc.md)
-2. [MARKDOWN基础](/docs/Markdowndoc.md)
-3. [VIM基本操作](/docs/VIMdoc.md)
-4. [openbsd的安装与配置](/docs/openbsddoc.md)
-5. [PYTHON基础](/docs/pythondoc.md)
+1.	[在github.io上建立免费的博客](/docs/githubdoc.md)
+2.	[用Markdown格式写博客](/docs/Markdowndoc.md)
+3.	[编程利器 VIM](/docs/VIMdoc.md)
+4.	[最安全的操作系统 OpenBSD](/docs/openbsddoc.md)
+5.	[最热的编程语言Python](/docs/pythondoc.md)
 
 ### 最近搜集的资料和兴趣 ###
 
@@ -23,6 +20,11 @@
 6.	[Go Online](https://golang.org)
 7.	[UDP协议总结](https://www.cnblogs.com/HPAHPA/p/7737531.html)
 8.	[TG汇总](/docs/TG.md)
+
+
+####	[【UML 序列图_类图_学习汇总】](/docs/UML.md) ####
+####	[【超市收银系统】](/docs/cash.md) ####
+
 
 ... ...
 
