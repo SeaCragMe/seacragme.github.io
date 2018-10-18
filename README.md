@@ -7,8 +7,8 @@
 
 ### 当前需要学习的目标 ###
 
-1. [建立github.io的基本界面](/docs/githubdoc.md)
-2. [基本的MARKDOWN语法](/docs/Markdowndoc.md)
+1. [在github.io上建立免费的博客](/docs/githubdoc.md)
+2. [MARKDOWN基础](/docs/Markdowndoc.md)
 3. [VIM基本操作](/docs/VIMdoc.md)
 4. [openbsd的安装与配置](/docs/openbsddoc.md)
 5. [PYTHON基础](/docs/pythondoc.md)
