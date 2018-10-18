@@ -1,25 +1,29 @@
 # 欢迎光临 #
 ## 这里是 seacrag 的学习小站 ##
 
-#### [【UML 序列图_类图_学习汇总】](/docs/UML.md)		[【超市收银系统】](/docs/case.md) ####
+
+#### [【UML 序列图_类图_学习汇总】](/docs/UML.md) ####
+#### [【超市收银系统】](/docs/case.md) ####
 
 ### 当前需要学习的目标 ###
 
-1. [建立github.io的基本界面](seacragme.github.io/docs/index.html)
-2. 基本的MARKDOWN语法
+1. [建立github.io的基本界面](/docs/githubdoc.md)
+2. [基本的MARKDOWN语法](/docs/Markdowndoc.md)
+3. [VIM基本操作](/docs/VIMdoc.md)
+4. [openbsd的安装与配置](/docs/openbsddoc.md)
+5. [PYTHON基础](pythondoc.md)
 
-	1. [Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)
-	2. [GitHub Pages](https://www.jianshu.com/p/48fd3d4a95e1)
-	3. [GitHub Pages Guides官方文档翻译](https://www.jianshu.com/p/573b7f8461d0)
-	4. [如何搭建一个独立博客——简明Github Pages与Hexo教程](https://www.jianshu.com/p/141abf1700da?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+### 最近搜集的资料和兴趣 ###
 
-3. VIM基本操作
-4. openbsd的安装与配置
-5. PYTHON基础
+[人工智能](/docs/RGZN.md)
 
-### 搜集的资料 ##
+[股票数据接口](https://www.juhe.cn/docs/api/id/21)
+[股票数据API](https://blog.csdn.net/Llingmiao/article/details/79941066)
 
+[Go 语言教程](http://www.runoob.com/go/go-tutorial.html)
+[Go Online](https://golang.org)
 
+[TG汇总](/docs/TG.md)
 
 ... ...
 
