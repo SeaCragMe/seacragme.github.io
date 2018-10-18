@@ -15,17 +15,14 @@
 
 ### 最近搜集的资料和兴趣 ###
 
-[人工智能](/docs/RGZN.md)
-
-[股票数据接口](https://www.juhe.cn/docs/api/id/21)
-[股票数据API](https://blog.csdn.net/Llingmiao/article/details/79941066)
-
-[Go 语言教程](http://www.runoob.com/go/go-tutorial.html)
-[Go Online](https://golang.org)
-
-[UDP协议总结](https://www.cnblogs.com/HPAHPA/p/7737531.html)
-
-[TG汇总](/docs/TG.md)
+1.	[Visual Studio 官方教程](https://docs.microsoft.com/zh-cn/visualstudio/?view=vs-2017#pivot=get-started&panel=get-started1)
+2.	[人工智能](/docs/RGZN.md)
+3.	[股票数据接口](https://www.juhe.cn/docs/api/id/21)
+4.	[股票数据API](https://blog.csdn.net/Llingmiao/article/details/79941066)
+5.	[Go 语言教程](http://www.runoob.com/go/go-tutorial.html)
+6.	[Go Online](https://golang.org)
+7.	[UDP协议总结](https://www.cnblogs.com/HPAHPA/p/7737531.html)
+8.	[TG汇总](/docs/TG.md)
 
 ... ...
 
