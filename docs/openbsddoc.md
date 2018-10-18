@@ -1,9 +1,8 @@
 
 ## OpenBSD DOC ##
 
-
-1.	[OpenWrt 使用VirtualBox部署以及网络环境(NAT+Host-Only)（二）](https://blog.csdn.net/xiaodingqq/article/details/80018685?utm_source=blogxgwz0)
-2.	[VirtualBox搭建OpenWrt软路由](https://blog.csdn.net/lvshaorong/article/details/80935503)
-3.	[OpenWRT研究（六）——虚拟机VitrualBox安装OpenWRT](https://blog.csdn.net/shenshouer/article/details/32715297?utm_source=blogxgwz8)
-[树梅派应用35：安装OpenWrt将树莓派变身为全能路由器](https://blog.csdn.net/huayucong/article/details/54090284)
-4.	[openwrt x86 版安装纪实](https://blog.csdn.net/wyw3547/article/details/52885641)
+* 简介： [深度探索 OpenBSD](https://www.ibm.com/developerworks/cn/aix/library/au-openbsd.html)
+* 文档： [OpenBSD 4.8 FAQ 中文版](http://llww.me/index.html)
+* 栗子： [如何使用 OpenBSD 3.2 作 ADSL 路由](http://www.kuqin.com/article/05bsd/23827.html)
+* 安全： [扔掉 OpenSSL，拥抱 LibreSSL——远离心脏出血与溺亡](https://hltj.me/security/2017/05/26/libressl-instead-openssl.html)
+***

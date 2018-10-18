@@ -4,8 +4,8 @@
 
 ### 当前需要学习的目标 ###
 
-- [在github.io上建立免费的博客](/docs/githubdoc.md)
-- [用Markdown格式写博客](/docs/Markdowndoc.md)
+- [在github.io上建立免费博客的方法](/docs/githubdoc.md)
+- [用轻量标记格式Markdown写博客](/docs/Markdowndoc.md)
 - [编程利器 VIM](/docs/VIMdoc.md)
 - [最安全的操作系统 OpenBSD](/docs/openbsddoc.md)
 - [最热的编程语言Python](/docs/pythondoc.md)
