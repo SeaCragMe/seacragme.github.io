@@ -1,6 +1,8 @@
 # 欢迎光临 #
 ## 这里是 seacrag 的学习小站 ##
 
+#### [UML 序列图_类图_学习汇总](/docs/UML.md) ####	#### [超市收银系统](/docs/case.md) ####
+
 ### 当前需要学习的目标 ###
 
 1. [建立github.io的基本界面](seacragme.github.io/docs/index.html)
@@ -18,9 +20,7 @@
 
 ### 搜集的资料 ##
 
-#### [UML](/docs/UML.md) ####
 
-#### [超市收银系统](/docs/case.md) ####
 
 ... ...
 
