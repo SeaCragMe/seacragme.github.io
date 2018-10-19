@@ -12,7 +12,7 @@
 5. 最安全的操作系统 [OpenBSD](/docs/openbsddoc.md)
 6. 最近搜集的[资料和兴趣方向](/docs/think.md)
 7. 动手搭建[软件路由器](/docs/openwrt.md)
-
+8. 教程：[在 ASP.NET Core 中开始使用 Razor Pages](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-2.1)
 如果你有什么奇思妙想，请记得给我发邮件哦！，mail: seacrag@me.com
 
 
