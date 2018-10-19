@@ -1,12 +1,15 @@
 # 知识开拓眼界 双手创造未来
 ## 这里是seacrag的学习小站
-### 工欲善其事 必先利其器 ###
+
+如果能在网络上记录一些自己学习的过程，并与同好分享自己的思考，感觉也挺不错的吧，所以有了这个小窝。
+
+工欲善其事，必先利其器
 
 1. 在[github.io](/docs/githubdoc.md)上建立免费博客的方法
-2. 用轻量标记格式[Markdown](/docs/Markdowndoc.md)写博客
-3. 编程利器 [VIM](/docs/VIMdoc.md)
-4. 最安全的操作系统 [OpenBSD](/docs/openbsddoc.md)
-5. 最热门的编程语言 [Python](/docs/pythondoc.md)
+2. 用轻量型标记格式[Markdown](/docs/Markdowndoc.md)写博客
+3. 跨平台的老牌编辑利器 [VIM](/docs/VIMdoc.md)
+4. 最热门的编程语言 [Python](/docs/pythondoc.md)
+5. 最安全的操作系统 [OpenBSD](/docs/openbsddoc.md)
 6. 最近搜集的[资料和兴趣方向](/docs/think.md)
 7. 动手搭建[软件路由器](/docs/openwrt.md)
 
