@@ -1,7 +1,5 @@
 # 科技开拓眼界 双手创造未来 #
-## 这里是 ##
-#seacrag#
-## 的学习小站 ##
+## 这里是 ##  # seacrag #  ## 的学习小站 ##
 
 
 ### 工欲善其事 必先利其器 ###
@@ -10,7 +8,7 @@
 2. 用轻量标记格式[Markdown](/docs/Markdowndoc.md)写博客
 3. 编程利器 [VIM](/docs/VIMdoc.md)
 4. 最安全的操作系统 [OpenBSD](/docs/openbsddoc.md)
-5. 最热的编程语言 [Python](/docs/pythondoc.md)
+5. 最热门的编程语言 [Python](/docs/pythondoc.md)
 6. [最近搜集的资料和兴趣方向](/docs/think.md)
 
 
