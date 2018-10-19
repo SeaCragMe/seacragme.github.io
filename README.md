@@ -8,7 +8,7 @@
 4. 最安全的操作系统 [OpenBSD](/docs/openbsddoc.md)
 5. 最热门的编程语言 [Python](/docs/pythondoc.md)
 6. 最近搜集的[资料和兴趣方向](/docs/think.md)
-
+7. 动手搭建[软件路由器](/docs/openwrt.md)
 
 如果你有什么奇思妙想，请记得给我发邮件哦！，mail: seacrag@me.com
 
