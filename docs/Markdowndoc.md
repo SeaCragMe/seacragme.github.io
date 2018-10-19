@@ -6,7 +6,7 @@
 
 常用的语法：
 
-- **标题栏**    #是最大号字#，#######是最小标题栏
+- **标题栏**    #是最大号字#，######最小标题栏是6个
 - **列表项**		 无序列表用-减号，或者*
 
 - **粗体和斜体**	用星号包围，`*斜体字*`，`**粗体**`
@@ -33,9 +33,10 @@ ____
 
 [wiki:Markdown](https://zh.wikipedia.org/wiki/Markdown)
 
-1.	新手最应该看的博客： [Github:younghz](http://younghz.github.io/Markdown/)
-2.	[Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)
-3.	[献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER)
+1.  MARKDOWN创造者这么说：[JOHN GRUBER](https://daringfireball.net/projects/markdown/syntax#overview)
+2.	新手最应该看的博客： [Github:younghz](http://younghz.github.io/Markdown/)
+3.	[Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)
+4.	[献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER)
 
 
 ---
