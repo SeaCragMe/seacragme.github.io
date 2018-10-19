@@ -1,7 +1,7 @@
 
 
 1. [Visual Studio 中文官方教程](https://docs.microsoft.com/zh-cn/visualstudio/?view=vs-2017#pivot=get-started&panel=get-started1)
-2. [人工智能](/docs/RGZN.md)
+2. [人工智能](/docs/ai.md)
 3. 数据分析：[股票数据接口](https://www.juhe.cn/docs/api/id/21)
 4. 数据分析：[股票数据API](https://blog.csdn.net/Llingmiao/article/details/79941066)
 5. [Go 语言教程](http://www.runoob.com/go/go-tutorial.html)
