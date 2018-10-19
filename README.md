@@ -12,7 +12,7 @@
 6. [最近搜集的资料和兴趣方向](/docs/think.md)
 
 
-如果你有什么奇思妙想，请记得给我发邮件哦！，邮件地址：[seacrag@me.com](seacrag@me.com)
+如果你有什么奇思妙想，请记得给我发邮件哦！，邮件地址：`seacrag@me.com`
 
 ***
 
