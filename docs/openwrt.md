@@ -9,4 +9,9 @@
 [树梅派应用35：安装OpenWrt将树莓派变身为全能路由器](https://blog.csdn.net/huayucong/article/details/54090284)
 4.	[openwrt x86 版安装纪实](https://blog.csdn.net/wyw3547/article/details/52885641)
 
-## OpenCRT ##
+
+
+
+-----
+
+还是我，底线
