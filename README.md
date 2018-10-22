@@ -5,14 +5,11 @@
 
 工欲善其事，必先利其器
 
-1. 在[github.io](/docs/githubdoc.md)上建立免费博客的方法
-2. 用轻量型标记格式[Markdown](/docs/Markdowndoc.md)写博客
-3. 跨平台的老牌编辑利器 [VIM](/docs/VIMdoc.md)
-4. 最热门的编程语言 [Python](/docs/pythondoc.md)
-5. 最安全的操作系统 [OpenBSD](/docs/openbsddoc.md)
-6. 最近搜集的[资料和兴趣方向](/docs/think.md)
-7. 动手搭建[软件路由器](/docs/openwrt.md)
-8. [ASP.NET](https://docs.microsoft.com/zh-cn/aspnet/index?view=aspnetcore-2.1)
+1. 用轻量化标记语言[Markdown](/docs/Markdowndoc.md)在[github.io](/docs/githubdoc.md)上建立免费博客
+2. 在跨平台的老牌编辑利器 [VIM](/docs/VIMdoc.md)上用最热门的编程语言[Python](/docs/pythondoc.md)编写数据分析软件
+3. 在最安全的操作系统 [OpenBSD](/docs/openbsddoc.md)上动手搭建[软件路由器](/docs/openwrt.md)
+4. 最近搜集的[资料和兴趣方向](/docs/think.md)
+5. 微软网络编程新构架[ASP.NET Core](https://docs.microsoft.com/zh-cn/aspnet/index?view=aspnetcore-2.1)
 
 如果你有什么奇思妙想，请记得给我发邮件哦！，mail: seacrag@me.com
 
