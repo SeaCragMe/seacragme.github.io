@@ -5,7 +5,7 @@
 
 20181010
 
-1. 用[Markdown](/docs/Markdowndoc.md)这种轻量化标记语言在[github.io](/docs/githubdoc.md)上建立免费博客，你现在看到的就是。
+1. 你现在看到的，就是用[Markdown](/docs/Markdowndoc.md)这种轻量化标记语言在[github.io](/docs/githubdoc.md)上建立的免费博客。
 
 2. 工欲善其事，必先利其器。在跨平台的老牌编辑利器 [VIM](/docs/VIMdoc.md)上用最热门的编程语言[Python](/docs/pythondoc.md)编写数据采集软件
 
