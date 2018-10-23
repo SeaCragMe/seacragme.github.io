@@ -20,9 +20,7 @@
   - `sudo rm -rf /`
 
 
-- **链接**	`[GitHub](https://github.com)`,
-显示是这样滴：[GitHub](https://github.com),
-图片链接就在前面加个叹号
+- **链接**	[GitHub](https://github.com)是这样写滴:[GitHub](https://github.com),图片链接就在前面加个叹号。
 
 - **分割线**		 连续3个以上的`-`，或者`_`，就是分割线，你看:
 
