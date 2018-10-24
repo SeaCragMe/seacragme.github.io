@@ -1,6 +1,10 @@
 
 ## VIM 基本操作 ##
 
+
+----
+链接地址：
+
 1.	[像IDE一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 2.	[Vim命令合集](http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html)
 3.	[【vim环境配置】详细实录](http://www.cnblogs.com/xbf9xbf/p/4860484.html)

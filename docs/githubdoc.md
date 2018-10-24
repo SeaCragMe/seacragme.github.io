@@ -1,6 +1,17 @@
 
 ## Github Doc ##
 
+学习笔记：
+
+
+
+
+
+
+
+
+----
+链接地址：
 
 1.	[傻瓜都可以利用github pages建博客](http://cyzus.github.io/2015/06/21/github-build-blog/)
 2.	[git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
