@@ -2,6 +2,12 @@
 ## 记忆的长河，青春的流水账 ##
 
 
+  20181026
+  - 进入到了python 操作 SQLite3
+  - 发现了两个好的模块：
+
+    pip3 install "ipython[notebook]"
+    pip3 install pandas
 
   20181024
   - 下载了MacVim，用`sudo vi /etc/paths`命令添加gvim 命令行的启动路径`/Applications.MacVim.app/Contents/bin`，这样就可以随时调用图形版的vim了
