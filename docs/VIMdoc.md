@@ -3,9 +3,9 @@
 
   编辑文档时，你的手总要游走在键盘和鼠标之间吗？，有了这个神器，你的双手就再也不需要离开键盘了，下面先简单展示一下vim的魅力吧
   > 常用的删除操作：
-  * 发现有个字符打错了?,删除它只需要按：`x` 
+  * 发现有个字符打错了?,删除它只需要按：`x`
   * 删除光标所在的这个单词：`dw`
-  * 这一行都不想要了，好吧，按：`dd` 
+  * 这一行都不想要了，好吧，按：`dd`
   * 删除当前行和下一行：`dj`
   * 现在我想删除11行以后的所有东西：`:11,$d`
   * 刚才我做了什么？，我后悔了：`u`
@@ -20,7 +20,7 @@
 3.	[【vim环境配置】详细实录](http://www.cnblogs.com/xbf9xbf/p/4860484.html)
 4.	[让Vim更好用 for Mac OS X](http://hessian.cn/p/1026.html)
 5.  [mac自带vim7配置](http://www.cnblogs.com/liuqxFuture/archive/2012/11/20/2779560.html)
-
-
+6.  [vim中多标签和多窗口的使用](https://my.oschina.net/kutengshe/blog/464602)
+7.  [插件NERDTree的使用](http://www.cnblogs.com/feichexia/archive/2012/11/07/Vim_NerdTree.html)
 -----
 底线，底线

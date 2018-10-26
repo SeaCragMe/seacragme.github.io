@@ -3,7 +3,7 @@
 
 学习笔记：
 
-
+20181025 从github下载： `git clone https://github.com/szorfein/fantasy.vim`
 
 
 
