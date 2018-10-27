@@ -22,27 +22,5 @@
 5.  [mac自带vim7配置](http://www.cnblogs.com/liuqxFuture/archive/2012/11/20/2779560.html)
 6.  [vim中多标签和多窗口的使用](https://my.oschina.net/kutengshe/blog/464602)
 7.  [插件NERDTree的使用](http://www.cnblogs.com/feichexia/archive/2012/11/07/Vim_NerdTree.html)
-
-
-### 流程图
-```flow
-st=>start: Start
-e=>end
-op=>operation: My Operation
-cond=>condition: Yes or No?
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
-以及时序图:
-
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-```
-
 -----
 底线，底线
