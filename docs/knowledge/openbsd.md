@@ -28,6 +28,7 @@
     pkg_add vim zh-wqy-zenhei-ttf firefox tor-browser
 
 
+
 挂载U盘
 软件在线升级命令：
     pkg_add -u
@@ -62,6 +63,38 @@
     tar zxf ports.tar.gz
     ln -S /usr/local/ports /usr/ports
 
+在线升级：
+    pkg_add -u
+
+查看已经安装的软件：
+    pkg_info
+
+    pkg_add virsion  #查看已安装的软件版本号
+删除软件：
+    pkg_delete
+
 进入要安装的目录
     make install clean
+
+
+挂载U盘：
+    
+    显示当前所有磁盘的名称：
+        sysctl hw.disknames
+    
+    查看sd0i的磁盘分区等信息：
+        disklabel sd0i
+    挂载：
+        mount /dev/sd0i /mnt/usb
+    U盘sd0制作install64.fs的启动盘：
+        dd if=install64.fs of=/dev/sd0c
+    
+    在OSX下需要加上sudo,否则会报错dd: /dev/disk1: Permission denied
+        
+        sudo dd if=install64.iso of=/dev/disk1
+        这里的disk1是由以下命令找到的：
+            diskutil list
+
+
+
 

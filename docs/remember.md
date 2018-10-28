@@ -2,6 +2,11 @@
 ## 记忆的长河，青春的流水账 ##
 
 
+  20181027
+  _ 安装了一个OSX软件安装管理的HOMEBREW,
+    命令是：'/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"'
+    [链接在这](https://brew.sh/index_zh-cn)
+
   20181026
   - 进入到了python 操作 SQLite3
   - 发现了两个好的模块：
