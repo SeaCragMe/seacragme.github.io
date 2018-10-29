@@ -2,6 +2,28 @@
 ## 记忆的长河，青春的流水账 ##
 
 
+  #### 20181028 ####
+  - 设置VIM的Vundle插件管理器：
+    > 在配置文件里添加：
+        >filetype off
+         set rtp+=~/.vim/bundle/Vundle.vim
+         call vundle#begin()
+
+         Plugin 'VundleVim/Vundle.vim'
+         Plugin 'altercation/vim-colors-solarized'
+         Plugin 'Lokaltog/vim-powerline'
+
+         " 记得安装完插件后要输入这2个：
+         call vundle#end()
+         filetype plugin indent on
+
+        > 也可以输入查找命令进行选择性的安装：
+          :PluginSearch
+        > 删除插件，除了关闭Plugin命令还要输入: ':PluginClean'
+        > 升级插件检查，输入： ':PluginUpdate'
+
+
+
   20181027
   _ 安装了一个OSX软件安装管理的HOMEBREW,
     命令是：'/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"'
