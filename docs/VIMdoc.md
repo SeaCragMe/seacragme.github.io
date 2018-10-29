@@ -18,6 +18,7 @@
 
 _   [如何组合使用 VIM 编辑器与 IPYthon](https://www.jianshu.com/p/539dbda310d5)
 _   [Vim与Python真乃天作之合](https://segmentfault.com/a/1190000003962806)
+_   专门学习vim博客[wim.ink](https://vim.ink/page/8/)
 _	[像IDE一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 _	[Vim命令合集](http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html)
 _	[【vim环境配置】详细实录](http://www.cnblogs.com/xbf9xbf/p/4860484.html)
