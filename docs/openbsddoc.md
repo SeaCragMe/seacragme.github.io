@@ -15,6 +15,7 @@
 * 安全： [扔掉 OpenSSL，拥抱 LibreSSL——远离心脏出血与溺亡漏洞](https://hltj.me/security/2017/05/26/libressl-instead-openssl.html)
 * 自习：[20181021](/docs/knowledge/openbsd.md)
 * 邮件： [配置mail使用SMTP发送邮件](https://tlanyan.me/config-mail-use-smtp/)
+* 建站： [OpenBSD.Apache.MySQL.PHP软件环境的安装](https://blog.csdn.net/oyzl68/article/details/6910025)
 
 
 

@@ -18,7 +18,7 @@
          filetype plugin indent on
 
         > 也可以输入查找命令进行选择性的安装：
-          :PluginSearch
+          :PluginSearch         #在命令中按i健可以直接安装好
         > 删除插件，除了关闭Plugin命令还要输入: ':PluginClean'
         > 升级插件检查，输入： ':PluginUpdate'
 

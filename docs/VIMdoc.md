@@ -28,6 +28,7 @@
 -   [插件NERDTree的使用](http://www.cnblogs.com/feichexia/archive/2012/11/07/Vim_NerdTree.html)
 -   [vim插件管理工具Vundle](https://www.cnblogs.com/schaepher/p/7533826.html)
 -   [VIM选项配置说明](http://www.cnblogs.com/fengchi/p/6902965.html)
+-   [vim 常用 NERDTree 快捷键](https://www.cnblogs.com/qiumingcheng/p/6275510.html)
 
 
 -----
