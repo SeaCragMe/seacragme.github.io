@@ -3,7 +3,7 @@
 
 搭建软件路由器
 
-
+  [镜像下载](https://openwrt.tetaneutral.net)
 ----
 链接地址：
 
@@ -14,6 +14,7 @@
 -	[openwrt x86 版安装纪实](https://blog.csdn.net/wyw3547/article/details/52885641)
 -   [VMware安装LEDE详细完整版](http://www.right.com.cn/forum/thread-220605-1-1.html)
 -   20181102 [openwrt编译x86固件](https://blog.csdn.net/a13698709128/article/details/78159833)
+-   20181102 [如何把OpenWrt安装到PC？](http://www.cnblogs.com/yczz/p/3893102.html)
 
 
 
