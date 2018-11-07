@@ -3,6 +3,34 @@
 
 ### 系统安装 ###
 
+
+
+#### U盘启动制作 ####
+20181102
+
+installxx.fs 是 u 盘镜像文件，直接刻录在 u 盘上即可，在 linux 下或者 BSD 系统下，使用 dd 命令即可。
+
+
+下面给出我的操作步骤和说明，OpenBSD 系统为例：
+
+1，插入 u 盘，这时系统内核认出 u 盘，给出磁盘名称，这个很重要。如果当前是在第一个 console 字符界面下，屏幕或许有提示，很多行，最常见的就是：...umass0...sd0...serial...
+如果没有看到这些，你可以在命令中输入“ dmesg | tail ” 查看内核消息的最近部分，里面有磁盘名称。例子中的磁盘名称就是 sd0
+
+2，命令中输入“ disklabel sd0” 查看 u 盘分区和分区的文件格式，确认是否正确，有用的数据请备份。
+
+3，知道了磁盘名称，就可以开始制作 u 盘安装盘了。如果 u 盘上分区已经挂载，请用 mount 命令看看，然后用 umount 命令卸载它们。最后输入以下命令：
+dd if=/path/to/installxx.fs of=/dev/rsd0c bs=1m
+这里解释一下。/path/to/installxx.fs 就是 install55.fs 的文件路径，/dev/rsd0c 指的是 u 盘这个硬件，根据情况将“sd0”替换为第1步得到的u盘磁盘名称。
+
+--------- 安装过程与光盘安装相同，最后安装软件包的时候安装介质选择“disk”
+
+
+
+
+------
+
+
+
 安装
 设置在线程序下载服务器地址（镜像）
     vi /.profile
@@ -96,5 +124,68 @@
             diskutil list
 
 
+
+
+
+
+20181102
+
+
+由于光驱损坏，就想着做一个u盘安装盘。刚制作成功，步骤如下：
+
+0，处理openbsd镜像文件 install51.iso，步骤
+  1）mkdir /mnt2
+  2) vnconfig vnd0 /home/install51.iso
+  3) mount -t cd9660 /dev/vnd0c /mnt2
+
+1，fdisk -i sd0
+重写 mbr
+
+2，disklabel -Aw sd0
+自动方法分区 sd0
+结果是少量空间分配 swap，其余给 a 区，将是安装盘的启动分区
+
+3，newfs /dev/rsd0a
+格式化 u 盘第一个分区
+
+4，mount /dev/sd0a /mnt
+挂接 u 盘第一个分区
+
+5，cp /usr/mdec/boot /mnt/boot
+拷贝 boot 程序，放在 u 盘启动分区中，引导 bsd 内核需要的程序
+
+6，/usr/mdec/installboot –v /mnt/boot /usr/mdec/biosboot sd0
+安装启动第一阶段代码 /usr/mdec/biosboot，目的是启动 boot 程序
+
+7，cp -r /mnt2/5.1 /mnt/
+把启动所需文件从安装镜像文件中拷贝至 u 盘，所有所需文件在u盘上的路径为 /5.1/i386
+
+----------- 使用方法 ----------- ----------- ----------- ----------- ----------- -----------
+u盘启动后，进入 boot> ，按任意键等待
+
+1，machine diskinfo
+查看可以识别的硬盘
+
+2，set
+查看 boot 的引导参数
+
+3，ls
+查看当前目录下的文件，可以执行“ ls 5.1/i386 ”找到启动内核
+
+3，boot 5.1/i386/bsd.rd
+启动 bsd.rd 内核，进入安装程序
+
+4，一路安装，直到安装程序时，询问 SETS 所在的介质和路径
+
+5，！
+暂时暂停安装，退出 install 程序
+
+6，mount /dev/sd0a /mnt2
+挂载 u 盘a分区
+
+7，return
+返回，继续 install 安装程序，停留在安装介质的选择上
+
+8，继续时，安装介质选择 disk，已经挂载，路径写 /mnt2/5.1/i386
 
 

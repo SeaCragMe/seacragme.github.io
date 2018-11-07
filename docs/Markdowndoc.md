@@ -35,9 +35,8 @@ ____
 [wiki:Markdown](https://zh.wikipedia.org/wiki/Markdown)
 
 1.  MARKDOWN创造者这么说：[JOHN GRUBER](https://daringfireball.net/projects/markdown/syntax#overview)
-2.	新手最应该看的博客： [Github:younghz](http://younghz.github.io/Markdown/)
+2.	[献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER)
 3.	[Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)
-4.	[献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER)
 
 
 ---
