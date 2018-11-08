@@ -22,7 +22,7 @@
 
 如果你有什么奇思妙想，请记得给我发邮件哦！，mail: <seacrag@me.com>
 
-
+### [UTF-16](http://www.cnblogs.com/dragon2012/p/5020259.html) ###
 ----
 
 我de底线
