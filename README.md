@@ -2,7 +2,7 @@
 ## 这里是seacrag的学习小站
 
 
-### 20181106 [操作SQLite3数据库](/docs/sqlite.md) ###
+### 20181106 [操作SQLite3数据库](/docs/20181026.md) ###
 
 20181010
 
@@ -18,11 +18,11 @@
 
 
 在网络上记录一些自己[学习的过程](/docs/remember.md)，并与同好分享自己的思考，感觉也挺不错的吧，所以有了这个小窝。
-学习[Python操作SQLite3](/docs/20181026.md)
 
-如果你有什么奇思妙想，请记得给我发邮件哦！，mail: <seacrag@me.com>
+如果你有什么奇思妙想，请记得给我发邮件哦！(@__@)  <seacrag@me.com>
 
-### [UTF-16](http://www.cnblogs.com/dragon2012/p/5020259.html) ###
+
+
 ----
 
 我de底线

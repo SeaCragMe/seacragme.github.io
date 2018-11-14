@@ -15,6 +15,10 @@
 *   架设编辑器[python vim](http://www.cnblogs.com/renrenqq/archive/2010/09/09/1813669.html)
 
 
+*   [浅谈Python 正则表达式](https://zhuanlan.zhihu.com/p/26019553)
+*   [Python正则表达式--Re库的基本使用](https://blog.csdn.net/i_chaoren/article/details/62264414)
+*   [Python正则表达式指南](http://www.cnblogs.com/huxi/archive/2010/07/04/1771073.html)
+
 
 
 

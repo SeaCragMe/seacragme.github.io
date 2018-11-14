@@ -16,6 +16,8 @@
 链接地址：
 
 
+
+-   [Git时代的VIM不完全使用教程](http://beiyuu.com/git-vim-tutorial)
 -   [如何组合使用 VIM 编辑器与 IPYthon](https://www.jianshu.com/p/539dbda310d5)
 -   [Vim与Python真乃天作之合](https://segmentfault.com/a/1190000003962806)
 -   专门学习vim博客[wim.ink](https://vim.ink/page/8/)

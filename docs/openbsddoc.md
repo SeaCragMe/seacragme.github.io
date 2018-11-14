@@ -18,6 +18,7 @@
 * 建站： [OpenBSD.Apache.MySQL.PHP软件环境的安装](https://blog.csdn.net/oyzl68/article/details/6910025)
 * 双系统:[Windows XP + FreeBSD 双系统](https://wiki.freebsdchina.org/doc/d/dualsystem)
 * 安装:  [关于fdisk的一些介绍](http://bbs.chinaunix.net/thread-1122505-1-1.html)
+* 网络服务：    [openbsd+openvpn搭建网络联机游戏平台](http://biancheng.dnbcw.net/bsd/258371.html)
 
 
 ______
@@ -58,6 +59,7 @@ ______
     恢复压缩： 
     tar xvpfz backup.tgz -C /
     mkdir home mnt dev sys
+    (如果想只解压缩某个目录：tar -xvpfz backup.tgz ./usr/local/ )
 
 
 -----
@@ -80,11 +82,15 @@ ______
 
     vim
     python 
+    wget
+    git
     firefox 
     zh-wqy-zenhei-ttf 
     qemu
     ipython
     pandas
+
+3.  [virtualenv](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001432712108300322c61f256c74803b43bfd65c6f8d0d0000)
 
 
 
