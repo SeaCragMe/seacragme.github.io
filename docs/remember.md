@@ -2,6 +2,111 @@
 ## 记忆的长河，青春的流水账 ##
 
 
+#### 20181117 ####
+
+vim:
+
+    :colorscheme <CTRL>D            #显示可用配色选项
+
+
+
+#### 20181116 ####
+
+1.   python:
+
+    dir(os)         #列出模块的所有方法
+
+2.  vimrc
+
+    winpos 8 22
+    set lines=76 columns=190
+
+    set termencoding=utf-8
+    set fileencoding=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr
+    set encoding=urf-8
+    set gfn=Monaco:j10:cANSI
+    set gfw=NSimsun:h12
+
+    set number
+    set nowrap
+    set gcr=a:block-blinkon0
+    set cursorline
+    set magic
+    set guioptions-=l
+    set guioptions-=L
+    set guioptions-=m
+    set guioptions-=M
+    set guioptions-=t
+    set guioptions-=T
+    set laststatus=2
+    set foldcolumn=0
+    set foldmethod=indent
+    set foldlevel=3
+    set foldenable
+
+    set cindent
+    set tabstop=4
+    set softtabstop=4
+    set shiftwidth=4
+    set smarttab
+
+    set ignorecase
+    set hlsearch
+    set incsearch
+    set gdefault
+
+    set wildmenu
+
+    :usr_05.txt
+
+    set noexpandtab
+    set nocompatible
+    set backspace=indent,eol,start
+    set autoindent
+
+    set ruler
+    set showcmd
+    set showmode
+    vnoremap _9 y:exe "grep /" . escape(@", '\\/') . "/ *.c *.h"CR>
+
+    set listchars=tab:>-,trail:-
+    
+    
+    set expandtab
+    set background=dark
+    colorscheme darkblue
+
+
+3.  vim 常用功能
+3.1 #### usr_22.txt ####
+    :edit .         #打开文件路径，其中o键打开文件，i键切换显示路径的方式，u键选择是否显示路径，v键纵向打开文件
+
+3.2 #### usr_21.txt ####
+
+    <CTRL>Z         #返回到终端命令行
+    fg<CR>          #返回到vim
+
+3.3 #### usr_20.txt ####
+
+    :tab             #子窗口操作
+    :tab + <CTRL>D  #自动补齐功能，显示可以使用的选项
+    :tabedit newfile
+    :tabfirst
+    :tabnext
+    :tabs
+    :tabonly
+    :tabmove
+
+3.4 #### window size ####
+
+    10<CTRL>W+      #当前窗口扩展10行
+
+
+
+_______
+
+
+
   #### 20181028 ####
   - 设置VIM的Vundle插件管理器：
     > 在配置文件里添加：

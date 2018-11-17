@@ -17,9 +17,11 @@
 
 
 
+-   [vim 常用快捷键 二](http://www.cnblogs.com/wangkangluo1/archive/2012/04/12/2444952.html)
 -   [Git时代的VIM不完全使用教程](http://beiyuu.com/git-vim-tutorial)
 -   [如何组合使用 VIM 编辑器与 IPYthon](https://www.jianshu.com/p/539dbda310d5)
 -   [Vim与Python真乃天作之合](https://segmentfault.com/a/1190000003962806)
+-   [Vim 配置详解](http://www.cnblogs.com/witcxc/archive/2011/12/28/2304704.html)
 -   专门学习vim博客[wim.ink](https://vim.ink/page/8/)
 -	[像IDE一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 -	[Vim命令合集](http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html)
