@@ -93,6 +93,10 @@ ______
 3.  [virtualenv](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001432712108300322c61f256c74803b43bfd65c6f8d0d0000)
 
 
+4.  下载网络上的某个目录下所有文件：
+
+    wget -c -r -np -k -L -p gamelay.usami.com/~netboy/w30/
+
 
 
 
