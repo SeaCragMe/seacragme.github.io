@@ -96,6 +96,8 @@ ______
 4.  下载网络上的某个目录下所有文件：
 
     wget -c -r -np -k -L -p gamelay.usami.com/~netboy/w30/
+    tar zcf download.tar.gz gamelay.usami.com
+
 
 
 
